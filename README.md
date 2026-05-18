@@ -1,0 +1,1 @@
+Developed a web-based application integrated with Confluence using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and MySQL. Built dynamic UI interactions using AJAX and jQuery and implemented PHP-based server-side logic for data processing and database integration. Contributed to both frontend structure and backend functionality in a team-based environment.
